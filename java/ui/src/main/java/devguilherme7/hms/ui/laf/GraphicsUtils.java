@@ -1,4 +1,4 @@
-package software.laf;
+package devguilherme7.hms.ui.laf;
 
 import java.awt.BasicStroke;
 import java.awt.Color;

@@ -1,1 +1,6 @@
+enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
+
 rootProject.name = 'hms'
+
+include(":java:ui")
+include(":java:main")
